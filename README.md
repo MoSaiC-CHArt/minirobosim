@@ -4,6 +4,7 @@ Minimal 2D robot simulator based on Box2D library
 ## Dependencies
   -   PyGame : https://github.com/pygame/pygame
   -   PyBox2D : https://github.com/pybox2d/pybox2d
+
 Compatible with Python 3.11.7, PyGame 2.2.0 (SDL 2.28.5), PyBox2D 2.3.8
 
 ## Example of usage with Conda environment:
