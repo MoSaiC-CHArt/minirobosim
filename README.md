@@ -9,7 +9,7 @@ Compatible with Python 3.11.7, PyGame 2.2.0 (SDL 2.28.5), PyBox2D 2.3.8
 
 ## Example of usage with Conda environment:
 _Environment creation_ \
- (base) $ conda create -n myrobotenv python=3.11 pygame=2.2 pybox2d=2.3 numpy pandas matplotlib
+ (base) $ conda create -c conda-forge -n myrobotenv python=3.11 pygame=2.2 pybox2d=2.3 numpy pandas matplotlib
 
 _Environment activation_ \
  (base) $ conda activate myrobotenv
